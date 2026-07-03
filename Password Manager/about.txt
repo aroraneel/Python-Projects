@@ -1,0 +1,21 @@
+PASSWORD MANAGER
+
+Password Manager is a simple Python application
+that helps users save and manage website passwords.
+
+The program allows users to save passwords,
+view all saved passwords, and generate strong
+random passwords for better security.
+
+All passwords are stored in a text file
+(passwords.txt), so they remain available
+even after the program is closed and reopened.
+
+This project uses basic Python concepts such as
+dictionaries, file handling, loops, functions,
+conditional statements, and the random and
+string modules.
+
+It is a beginner-friendly project that
+demonstrates how to create a simple
+console-based password management system.

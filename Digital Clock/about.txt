@@ -1,0 +1,22 @@
+DIGITAL CLOCK
+
+Digital Clock is a simple Python application
+that displays the current time and date in
+a graphical user interface (GUI).
+
+The application updates the time every second
+without requiring the user to refresh it.
+It also displays the current day, date,
+month, and year in a clear and readable format.
+
+This project is built using the Tkinter library
+for creating the GUI and the time module to
+retrieve the current system time and date.
+
+It demonstrates basic Python concepts such as
+functions, GUI programming, labels, loops,
+and automatic updates using the after() method.
+
+This is a beginner-friendly project that
+helps in understanding how to build simple
+desktop applications using Python.

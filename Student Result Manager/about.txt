@@ -1,0 +1,24 @@
+STUDENT RESULT MANAGER
+
+The Student Result Manager is a simple Python application
+designed to manage student records.
+
+It allows users to add a student's name and marks,
+view all stored student records, and check whether
+a student has passed or failed based on their marks.
+
+The program stores all student information using
+a Python dictionary, where the student's name is
+used as the key and the marks are stored as the value.
+
+A menu-driven interface is used, allowing the user
+to perform different operations until they choose
+to exit the application.
+
+This project is built using basic Python concepts
+such as dictionaries, while loops, for loops,
+conditional statements, and user input.
+
+It is a beginner-friendly project that helps in
+understanding how to create a simple console-based
+application using Python.
