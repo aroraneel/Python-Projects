@@ -1,0 +1,26 @@
+AI ASSISTANT
+
+AI Assistant is a simple command-line application
+built using Python, LangChain, LangGraph, and the
+Claude AI model. It allows users to interact with
+an AI assistant through natural language.
+
+The project demonstrates how to connect a Large
+Language Model (LLM) with custom tools created
+using LangChain. The AI can understand user
+requests and automatically decide when to use
+available tools to complete a task.
+
+Currently, the assistant includes a calculator
+tool for basic arithmetic operations and a
+greeting tool that generates personalized
+welcome messages.
+
+The project also demonstrates the use of
+environment variables, AI agents, tool calling,
+streaming responses, and interactive chat loops.
+
+This project is designed for learning the
+fundamentals of AI agents and will be expanded
+with additional tools and features as new
+concepts are explored.
