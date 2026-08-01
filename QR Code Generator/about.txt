@@ -1,0 +1,15 @@
+QR CODE GENERATOR
+
+QR Code Generator is a simple Python application
+that converts text or website URLs into QR codes.
+
+The user enters any text or URL, and the program
+generates a QR code image which is saved as a
+PNG file. The generated QR code can be scanned
+using any QR code scanner or smartphone camera.
+
+This project demonstrates user input, Python
+libraries, file creation, and image generation.
+It is designed to help beginners understand
+how external Python packages can be used to
+build practical applications.
